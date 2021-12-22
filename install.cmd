@@ -1,0 +1,1 @@
+xcopy "%~dp0dellpic.jpg" c:\Dell\ /y
